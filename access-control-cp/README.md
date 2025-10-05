@@ -60,4 +60,4 @@ Este projeto foi desenvolvido com foco em boas práticas, organização de códi
 Demonstra o uso integrado de ferramentas atuais do ecossistema React para criar uma aplicação web funcional e escalável.
 
 Desenvolvido com ❤️ por Leonardo Zerbinatti & Gustavo Mendes
-📘 Turma 1TDSPH — FIAP
+📘 Turma 1TDSPH — FIAP.
