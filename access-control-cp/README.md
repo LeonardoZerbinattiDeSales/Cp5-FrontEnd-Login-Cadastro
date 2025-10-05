@@ -27,3 +27,37 @@ Conta com validação em tempo real, proteção de rotas e armazenamento de sess
 🗄️ JSON Server	                 API fake para persistência de dados
 
 
+# ⚙️ Como Executar o Projeto
+- 🔧 Pré-requisitos
+
+1. Node.js 16+
+2. npm ou yarn
+
+# 📁 Estrutura Básica do Projeto
+src/
+├── components/     # Componentes reutilizáveis
+├── contexts/       # Contexto de autenticação
+├── pages/          # Páginas (Login, Cadastro, Dashboard)
+├── services/       # Integração com a API (JSON Server)
+├── types/          # Tipagens TypeScript
+└── App.tsx / main.tsx
+
+# 🔗 Rotas da Aplicação
+- Rota	Descrição
+1. /login	        # Tela inicial de login
+2. /cadastro	    # Cadastro de novos usuários
+3. /dashboard	    # Área protegida do usuário autenticado
+
+# ✨ Destaques Visuais
+
+🩵 Glassmorphism e gradientes modernos
+🎭 Animações suaves e microinterações
+📱 Design responsivo para todas as telas
+🔐 Feedback visual em validações
+💬 Considerações Finais
+
+Este projeto foi desenvolvido com foco em boas práticas, organização de código e UX moderna.
+Demonstra o uso integrado de ferramentas atuais do ecossistema React para criar uma aplicação web funcional e escalável.
+
+Desenvolvido com ❤️ por Leonardo Zerbinatti & Gustavo Mendes
+📘 Turma 1TDSPH — FIAP
